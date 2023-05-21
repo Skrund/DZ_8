@@ -1,0 +1,15 @@
+E:\LESSON_8\DZ_58\bin\Debug\net6.0\DZ_58.exe
+E:\LESSON_8\DZ_58\bin\Debug\net6.0\DZ_58.deps.json
+E:\LESSON_8\DZ_58\bin\Debug\net6.0\DZ_58.runtimeconfig.json
+E:\LESSON_8\DZ_58\bin\Debug\net6.0\DZ_58.dll
+E:\LESSON_8\DZ_58\bin\Debug\net6.0\DZ_58.pdb
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.csproj.AssemblyReference.cache
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.GeneratedMSBuildEditorConfig.editorconfig
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.AssemblyInfoInputs.cache
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.AssemblyInfo.cs
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.csproj.CoreCompileInputs.cache
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.dll
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\refint\DZ_58.dll
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.pdb
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\DZ_58.genruntimeconfig.cache
+E:\LESSON_8\DZ_58\obj\Debug\net6.0\ref\DZ_58.dll
